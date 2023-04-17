@@ -1,0 +1,19 @@
+.name{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:#0bf422;   
+}
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:#0bf422;   
+}
+h3{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:#0bf422;   
+}
+
+body{
+  background-color: black; 
+}
